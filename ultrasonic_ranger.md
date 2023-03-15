@@ -21,8 +21,9 @@ micros = machine.time_pulse_us(pin9, 1)
 ## 音速公式：
 
 ```math
-v = 331.6 + 0.6\dot T $
-T: 攝氏溫度 $
+v = 331.6 + 0.6T
+
+T: 攝氏溫度
 ```
 
 ## TODO:
