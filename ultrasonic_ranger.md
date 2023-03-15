@@ -22,7 +22,8 @@ micros = machine.time_pulse_us(pin9, 1)
 
 ```math
 v = 331.6 + 0.6T
-
+```
+```math
 T: 攝氏溫度
 ```
 
