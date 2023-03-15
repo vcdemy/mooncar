@@ -14,8 +14,9 @@
 
 * MicroBit簡介
 * 使用radio互傳資料
-* 使用neopixel設定RGB LED。
-* ...
+* [使用neopixel設定RGB LED](neopixel.md)
+* [使用reflectance sensor](reflectance_sensor.md)
+* [使用ultrasonic_ranger](ultrasonic_ranger.md)
 
 ## 參考資料：
 
