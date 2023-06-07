@@ -24,13 +24,13 @@ def right_off():
     np.show()
 
 def front_on(v):
+    np[1] = (v, v, v)
     np[2] = (v, v, v)
-    np[3] = (v, v, v)
     np.show()
 
 def front_off():
+    np[1] = (0, 0, 0)
     np[2] = (0, 0, 0)
-    np[3] = (0, 0, 0)
     np.show()
 
 def back_on(v):
